@@ -1,6 +1,5 @@
 
 '''
- Reto #9
  * CÓDIGO MORSE
  * Dificultad: MEDIA
  *
